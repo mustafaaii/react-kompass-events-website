@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "section": "info",
+        "lang": "de",
+        "info": "",
+        "title": "ÜBER UNS",
+        "subtitle": "",
+        "text": "<p>Kompass Events ist eine führende Marke in der Schweiz, die der türkischen Gemeinschaft Konzerte, Theater, kulturelle Veranstaltungen und Konferenzen bietet. Mit unserem Team bringen wir bedeutende türkische Künstler und Autoren in die Schweiz und organisieren Events in prestigeträchtigen Sälen.</p><p>Unsere Mission ist, kulturelle Brücken zu bauen und die türkische Kunst der in der Schweiz lebenden Menschen näherzubringen. Wir organisieren Veranstaltungen, die durch Musik interkulturellen Dialog fördern.</p><p>Kompass Events zielt darauf ab, nicht nur Vorstellungen, sondern unvergessliche Erlebnisse zu schaffen. Wir ermöglichen es Kunstliebhabern, Kunst zu entdecken und Einblicke in das kulturelle Erbe der Türkei zu gewinnen. Als vertrauenswürdige Marke glauben wir an die Kraft der Kunst, Menschen zu vereinen, und streben danach, mit jeder Veranstaltung einen Unterschied zu machen.",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "",
+        "jobs": ""
+    },
+    {
+        "id": 2,
+        "section": "info",
+        "lang": "tr",
+        "info": "",
+        "title": "HAKKIMIZDA",
+        "subtitle": "",
+        "text": "<p>Kompass Events, İsviçre'de yaşayan Türk toplumu için uzun yıllardır çeşitli konserler, tiyatrolar, kültürel etkinlikler ve konferanslar düzenleyen öncü bir markadır. Alanında uzmanlaşmış ve deneyimli ekibimizle birlikte, Türkiye'nin en önemli sanatçılarını, tiyatrocularını ve yazarlarını İsviçre'ye getirerek, ülkenin en prestijli konser salonlarında unutulmaz etkinlikler organize ediyoruz.</p><p>Misyonumuz, kültürel köprüler kurarak, Türk sanatını ve kültürünü İsviçre'de yaşayan insanlara tanıtmak ve onlara kendi dilinde sanatın çeşitli formlarını sunmaktır. Bu amaçla, müziğin evrensel dili aracılığıyla, insanları bir araya getiren ve kültürler arası diyalogu teşvik eden etkinlikler düzenliyoruz.</p><p>Kompass Events olarak, her etkinliğimizi, katılımcılarımıza sadece bir gösteri sunmakla kalmayıp, aynı zamanda unutulmaz bir deneyim yaşatmayı hedefleyerek titizlikle planlıyoruz. Etkinliklerimiz, sanatseverlerin sanatın farklı yönlerini keşfetmelerine, yeni deneyimler yaşamalarına ve Türkiye'nin zengin kültürel mirasına daha yakından bakmalarına olanak tanıyor.</p><p>Yıllar içinde edindiğimiz deneyim ve başarılarımız, bizi İsviçre'deki Türk toplumu içinde güvenilir ve saygın bir marka haline getirdi. Kompass Events, her geçen gün büyüyen etkinlik portföyü ile sanatın ve kültürün sınırları aşarak insanları birleştirme gücüne inanıyor.Etkinliklerimizi, sanat ve kültür alanında yeni standartlar belirleyecek şekilde geliştirmeye devam ediyoruz. Gelecekte de İsviçre'de yaşayan herkese, Türk sanatını ve kültürünü en iyi şekilde temsil eden etkinlikler sunmayı hedefliyoruz. Kompass Events olarak, sanatın birleştirici gücünden ilham alarak, her bir etkinliğimizle fark yaratmaya ve sanatseverlere unutulmaz anlar yaşatmaya devam edeceğiz.",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "",
+        "jobs": ""
+    },
+    {
+        "id": 3,
+        "section": "vision",
+        "lang": "de",
+        "info": "",
+        "title": "Vision",
+        "subtitle": "",
+        "text": "Als Kompass Events ist unsere Vision, durch die universelle Sprache der Kunst interkulturelle Brücken zu bauen und verschiedene Gemeinschaften in der Schweiz zusammenzuführen. Indem wir das reiche künstlerische Erbe der Türkei und die Weltkunst auf die prestigeträchtigen Bühnen der Schweiz bringen, streben wir danach, allen Kunstliebhabern inspirierende und unvergessliche Erlebnisse zu bieten. Wir möchten durch Kunst und Kultur gesellschaftliches Verständnis und Zusammenhalt fördern und eine dauerhafte Wirkung erzielen",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "",
+        "jobs": ""
+    },
+    {
+        "id": 4,
+        "section": "mission",
+        "lang": "de",
+        "info": "",
+        "title": "Mission",
+        "subtitle": "",
+        "text": "Unsere Mission ist es, führende Künstler aus der Türkei und der Welt in die Schweiz zu holen, um hochwertige und vielfältige kulturelle Veranstaltungen anzubieten. Mit jedem unserer Events möchten wir unseren Teilnehmern die transformative Kraft der Kunst vermitteln, durch kulturellen Dialog und Empathie positive Veränderungen in der Gesellschaft bewirken. Als Kompass Events suchen wir kontinuierlich nach innovativen Ansätzen, um den positiven Einfluss der Kunst auf die Gesellschaft zu erweitern, Vielfalt und Kreativität zu unterstützen.Diese überarbeiteten Vision- und Missionsaussagen drücken die grundlegenden Ziele und Bestrebungen von Kompass Events klar und prägnant aus, indem sie hervorheben, wie das Unternehmen durch Kunst und Kultur gesellschaftliche Einheit und Verständnis fördert.",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "",
+        "jobs": ""
+    },
+    {
+        "id": 5,
+        "section": "vision",
+        "lang": "tr",
+        "info": "",
+        "title": "Vizyon",
+        "subtitle": "",
+        "text": "Kompass Events olarak vizyonumuz, sanatın evrensel dilini kullanarak kültürlerarası köprüler kurmak ve İsviçre'deki çeşitli toplulukları bir araya getirmektir. Türkiye'nin zengin sanatsal mirasını ve dünya sanatını İsviçre'nin prestijli sahnelerine taşıyarak, tüm sanatseverlere ilham verici ve unutulmaz deneyimler sunmayı hedefliyoruz. Sanat ve kültür aracılığıyla toplumsal anlayışı ve birlikteliği teşvik ederek, kalıcı bir etki yaratmak istiyoruz.",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "",
+        "jobs": ""
+    },
+    {
+        "id": 6,
+        "section": "mission",
+        "lang": "tr",
+        "info": "",
+        "title": "Misyon",
+        "subtitle": "",
+        "text": "Misyonumuz, Türkiye ve dünyanın önde gelen sanatçılarını İsviçre'ye getirerek, yüksek kalitede ve çeşitlilikte kültürel etkinlikler sunmaktır. Her bir etkinliğimizle, katılımcılara sanatın dönüştürücü gücünü hissettirmek, kültürel diyalog ve empati yoluyla toplumda pozitif değişimler yaratmak temel amacımızdır. Kompass Events olarak, sanatın toplum üzerindeki olumlu etkisini genişletmek, çeşitliliği ve yaratıcılığı desteklemek için sürekli yenilikçi yaklaşımlar arıyoruz.Bu yeniden düzenlenmiş vizyon ve misyon ifadeleri, Kompass Events'in temel amaçlarını ve hedeflerini net ve öz bir şekilde ifade ederken, şirketin sanat ve kültür aracılığıyla toplumsal birliktelik ve anlayışı nasıl teşvik ettiğini vurgulamaktadır.",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "",
+        "jobs": ""
+    },
+    {
+        "id": 7,
+        "section": "ceo",
+        "lang": "de",
+        "info": "",
+        "title": "KOMPASS EVENTS",
+        "subtitle": "Sehr geehrte Liebhaber von Kunst und Kultur,",
+        "text": "<p>Wir bei Kompass Events glauben zutiefst an die Universalität der Kunst und die Bedeutung des Brückenschlags zwischen Kulturen. Deshalb haben wir es uns zur Aufgabe gemacht, die einzigartigen Schätze der türkischen Kunst und Kultur auf die glanzvollen Bühnen der prestigeträchtigsten Säle in der Schweiz zu bringen. Unser Ziel ist es, Ihnen mit jedem Event nicht nur etwas zum Anschauen, sondern tiefgreifende Erlebnisse zu bieten, in denen Sie leben, die Sie fühlen und in vollen Zügen genießen können.</p><p>edes Kunstwerk, jede Note und jede Szene ist für uns ein weiterer Weg, uns mit Ihnen, unserem geschätzten Publikum, zu verbinden. Diese Reise gemeinsam mit Ihnen zu gehen, ist für uns eine unermessliche Ehre.</p><p>Ich danke Ihnen für Ihr Interesse und Ihre Unterstützung unserer Veranstaltungen. Wir können es kaum erwarten, gemeinsam mit Ihnen die Magie der Kunst zu erleben.</p><p>Freundliche Grüsse.</p>",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "TURGUT KARABOYUN",
+        "jobs": "CEO"
+    },
+    {
+        "id": 8,
+        "section": "ceo",
+        "lang": "tr",
+        "info": "",
+        "title": "KOMPASS EVENTS",
+        "subtitle": "Sayın Sanat ve Kültür Severler,",
+        "text": "<p>Biz, Kompass Events olarak, sanatın evrenselliğine ve kültürler arası köprülerin kurulmasının önemine gönülden inanıyoruz. İşte bu yüzden, Türkiye'nin eşsiz sanat ve kültür hazinelerini, İsviçre'nin en gözde salonlarının ışıltılı sahnelerine taşıma görevini üstleniyoruz. Amacımız, her bir etkinlikle, sizlere sadece izlemekle kalmayacağınız, aynı zamanda içinde yaşayacağınız ve her anını hissedeceğiniz derin deneyimler sunmaktır.</p><p>Her bir sanat eseri, her nota ve sahne, bizim için, siz değerli izleyicilerimizle buluşmanın bir başka yolu. Bu yolculukta sizlerle birlikte yürümek, bizim için paha biçilmez bir onur.</p><p>Etkinliklerimize olan ilginiz ve desteğiniz için teşekkür ederim. Sanatın büyüsünü birlikte yaşamak için sabırsızlanıyoruz.</p>",
+        "image": "uberun_info_image.webp",
+        "ceo_name": "TURGUT KARABOYUN",
+        "jobs": "CEO"
+    }
+]
+

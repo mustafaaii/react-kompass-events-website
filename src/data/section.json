@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "event_id": "",
+        "lang": "de",
+        "section_name": "",
+        "title": "AKTUELLER VERANSTALTUNGSKALENDER",
+        "subtitle": "Sie sind zur Welt der Kunst und Unterhaltung eingeladen!",
+        "text": "Unsere bevorstehenden Veranstaltungen bringen Ihnen die lebendigsten Momente von Kunst und Unterhaltung."
+    },
+    {
+        "id": 1,
+        "event_id": "",
+        "lang": "tr",
+        "section_name": "",
+        "title": "GÜNCEL ETKİNLİK TAKVİMİ",
+        "subtitle": "Sanat ve eğlencenin dünyasına davetlisiniz!",
+        "text": "Yaklaşan etkinliklerimiz, sanat ve eğlencenin en canlı anlarını size getirecek."
+    },
+    {
+        "id": 2,
+        "event_id": "",
+        "lang": "de",
+        "section_name": "",
+        "title": "UNVERGESSLICHE VERANSTALTUNGEN",
+        "subtitle": "Mit Erinnerungen gefüllte vergangene Veranstaltungen!",
+        "text": "In diesem Abschnitt präsentieren wir Ihnen eine Auswahl unserer bedeutendsten Veranstaltungen aus verschiedenen Bereichen - von Konzerten über Theateraufführungen bis hin zu Literatur- und Kunstabenden, die unvergesslich geblieben sind und sich tief in das Gedächtnis eingebrannt haben."
+    },
+    {
+        "id": 2,
+        "event_id": "",
+        "lang": "tr",
+        "section_name": "",
+        "title": "UNUTULMAZ ETKİNLİKLER",
+        "subtitle": "Hatıralarla dolu geçmiş etkinlikler!",
+        "text": "Bu bölümde, konserlerden tiyatro gösterilerine, edebiyat ve sanat akşamlarına kadar çeşitli alanlardan en anlamlı etkinliklerimizin bir seçkisini sunuyoruz. Bunlar, unutulmaz kalmış ve hafızalara derinden kazınmıştır."
+    },
+    {
+        "id": 4,
+        "event_id": "55Qkw",
+        "lang": "de",
+        "section_name": "tags",
+        "title": "IMPRESSUM",
+        "subtitle": "",
+        "text": ""
+    },
+    {
+        "id": 4,
+        "event_id": "55Qkw",
+        "lang": "tr",
+        "section_name": "tags",
+        "title": "KÜNYE",
+        "subtitle": "",
+        "text": ""
+    },
+    {
+        "id": 4,
+        "event_id": "55Qkw",
+        "lang": "de",
+        "section_name": "galery",
+        "title": "GALERIE DER BÜHNENMOMENTE",
+        "subtitle": "",
+        "text": "Diese Galerie präsentiert unvergessliche Aufnahmen der Bühnenperformances unserer Schauspieler und fängt die intensivsten Momente von Kunst und Emotion ein. Jedes Foto offenbart die Leidenschaft und Hingabe hinter dem Vorhang des Theaters."
+    },
+    {
+        "id": 4,
+        "event_id": "55Qkw",
+        "lang": "tr",
+        "section_name": "galery",
+        "title": "SAHNE ANLARI GALERİSİ",
+        "subtitle": "",
+        "text": "Sanatın ve duygunun en yoğun anlarını yakalayan bu galeri, oyuncularımızın sahne performanslarının unutulmaz karelerini sizlere sunuyor. Her fotoğraf, tiyatro perdesinin ardındaki tutku ve emeği gözler önüne seriyor. "
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "de",
+        "section_name": "stream",
+        "title": "KONZERTPROGRAMM",
+        "subtitle": "",
+        "text": "Tauchen Sie in dieser besonderen Nacht in die faszinierende Welt von Fazıl Say ein. Dieses Programm, das in zwei Teilen die tiefe Emotionalität und technische Meisterschaft des Künstlers widerspiegelt, verspricht ein unvergessliches Erlebnis für Musikliebhaber."
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "de",
+        "section_name": "galery",
+        "title": "FOTOGALERIE",
+        "subtitle": "",
+        "text": "Ausgewählte Fotos von den Auftrittsmomenten von Fazıl Say."
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "de",
+        "section_name": "video",
+        "title": "VIDEOGALERIE",
+        "subtitle": "",
+        "text": "<strong>Beschreibung:</strong>Eine Sammlung von Videos mit unvergesslichen Auftritten des Künstlers."
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "de",
+        "section_name": "awards",
+        "title": "AUSZEICHNUNGEN UND ERFOLGE",
+        "subtitle": "",
+        "text": "Die internationalen Auszeichnungen und Erfolge von Fazıl Say in der Welt der Musik."
+    },
+    {
+        "id": 23,
+        "event_id": "zxpbV",
+        "lang": "tr",
+        "section_name": "stream",
+        "title": "KONSER PROGRAMI",
+        "subtitle": "",
+        "text": "Bu özel gecede Fazıl Say'ın etkileyici dünyasına adım atın. Sanatçının derin duygularını ve eşsiz yorumlarını iki bölüm halinde sergileyen bu program, her müziksever için unutulmaz bir deneyim olacak."
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "tr",
+        "section_name": "galery",
+        "title": "FOTOĞRAF GALERİSİ",
+        "subtitle": "",
+        "text": "Fazıl Say'ın performans anlarından seçilmiş özel fotoğraflar."
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "tr",
+        "section_name": "video",
+        "title": "VİDEO GALERİ",
+        "subtitle": "",
+        "text": "Sanatçının unutulmaz performanslarını içeren video koleksiyonu."
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "tr",
+        "section_name": "awards",
+        "title": "AUSZEICHNUNGEN UND ERFOLGE",
+        "subtitle": "",
+        "text": "Die internationalen Auszeichnungen und Erfolge von Fazıl Say in der Welt der Musik."
+    }
+]

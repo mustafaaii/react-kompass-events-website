@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "lang": "de",
+        "data": [
+            {
+                "id": 1,
+                "name": "Bitte Geschlecht angeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Namen eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Beruf eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Institution/Organisation eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Telefonnummer eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte E-Mail-Adresse eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Presseausweisnummer eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Art des Publikationsorgans (Zeitung, Zeitschrift, Blog, etc.) eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Spezifisches Interesse an der Veranstaltung (Interview, Fotografie, Allgemeine Berichterstattung, etc.) eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Frühere Teilnahmen/Veröffentlichungen (Relevante Links) eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Weitere Informationen, die Sie hinzufügen möchten eingeben"
+            },
+            {
+                "id": 1,
+                "name": "Bitte Dokument hinzufügen"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "lang": "tr",
+        "data": [
+            {
+                "id": 1,
+                "name": "Lütfen cinsiyet belirtin"
+            },
+            {
+                "id": 2,
+                "name": "Lütfen isim girin"
+            },
+            {
+                "id": 3,
+                "name": "Lütfen meslek girin"
+            },
+            {
+                "id": 4,
+                "name": "Lütfen kurum/organizasyon girin"
+            },
+            {
+                "id": 5,
+                "name": "Lütfen telefon numarası girin"
+            },
+            {
+                "id": 6,
+                "name": "Lütfen e-posta adresi girin"
+            },
+            {
+                "id": 7,
+                "name": "Lütfen basın kartı numarası girin"
+            },
+            {
+                "id": 8,
+                "name": "Lütfen yayın organının türünü girin (Gazete, dergi, blog, vs.)"
+            },
+            {
+                "id": 9,
+                "name": "Lütfen etkinlikle ilgili özel ilginizi girin (Röportaj, fotoğrafçılık, genel haberleştirme, vs.)"
+            },
+            {
+                "id": 10,
+                "name": "Lütfen daha önceki katılımlarınızı/yayınlarınızı girin (İlgili linkler)"
+            },
+            {
+                "id": 11,
+                "name": "Lütfen eklemek istediğiniz diğer bilgileri girin"
+            },
+            {
+                "id": 12,
+                "name": "Lütfen belge ekleyin"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "lang": "de",
+        "data": [
+            {
+                "id": 1,
+                "name": "Bitte Andrede angeben"
+            },
+            {
+                "id": 2,
+                "name": "Bitte Name angeben"
+            },
+            {
+                "id": 3,
+                "name": "Bitte E-Mail angeben"
+            },
+            {
+                "id": 4,
+                "name": "Bitte Telefon angeben"
+            },
+            {
+                "id": 5,
+                "name": "Bitte Description angeben"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "lang": "tr",
+        "data": [
+            {
+                "id": 1,
+                "name": "Lütfen cinsiyetinizi girin"
+            },
+            {
+                "id": 2,
+                "name": "Lütfen Adınızı girin"
+            },
+            {
+                "id": 3,
+                "name": "Lütfen E-posta adresinizi girin"
+            },
+            {
+                "id": 4,
+                "name": "Lütfen telefon numaranızı girin"
+            },
+            {
+                "id": 5,
+                "name": "Lütfen açıklama girin"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "lang": "de",
+        "data": [
+            {
+                "id": 1,
+                "name": "Bitte E-Mail angeben"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "lang": "tr",
+        "data": [
+            {
+                "id": 1,
+                "name": "Lütfen E-posta adresinizi girin"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "lang": "de",
+        "data": [
+            {
+                "id": 1,
+                "name": "Ihre Registrierung wurde erfolgreich abgeschlossen. Vielen Dank"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "lang": "tr",
+        "data": [
+            {
+                "id": 1,
+                "name": "Kaydınız başarıyla tamamlandı. Teşekkür ederim"
+            }
+        ]
+    }
+]

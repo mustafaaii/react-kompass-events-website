@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "lang": "de",
+        "contact": [
+            {
+                "title": "TELEFON",
+                "value": "+41 (0)44 576 60 80"
+            },
+            {
+                "title": "E-MAIL",
+                "value": "info@kompassgroup.ch"
+            },
+            {
+                "title": "ADRESS",
+                "value": "Schaufelbergerstrasse 57, 8055 Zürich"
+            }
+        ],
+        "form": [
+            {
+                "placeholder": "Andrede",
+                "subs": [
+                    "Frau",
+                    "Herr"
+                ]
+            },
+            {
+                "placeholder": "Name",
+                "sub": []
+            },
+            {
+                "placeholder": "E-Mail",
+                "sub": []
+            },
+            {
+                "placeholder": "Telefon",
+                "sub": []
+            },
+            {
+                "placeholder": "Nanchricht",
+                "sub": []
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "lang": "tr",
+        "contact": [
+            {
+                "title": "TELEFON",
+                "value": "+41 (0)44 576 60 80"
+            },
+            {
+                "title": "E-POSTA",
+                "value": "info@kompassgroup.ch"
+            },
+            {
+                "title": "ADRES",
+                "value": "Schaufelbergerstrasse 57, 8055 Zürich"
+            }
+        ],
+        "form": [
+            {
+                "placeholder": "Cinsiyet",
+                "subs": [
+                    "Kadın",
+                    "Erkek"
+                ]
+            },
+            {
+                "placeholder": "Adınız & Soyadınız",
+                "subs": []
+            },
+            {
+                "placeholder": "E-Posta",
+                "subs": []
+            },
+            {
+                "placeholder": "Telefon",
+                "subs": []
+            },
+            {
+                "placeholder": "Mesajınız",
+                "subs": []
+            }
+        ]
+    }
+]

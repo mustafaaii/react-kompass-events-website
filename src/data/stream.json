@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "event_id": "zxpbV",
+        "lang": "de",
+        "stage": "Erster Teil",
+        "section": 1,
+        "hall": "Kongresshaus Zürich",
+        "composer": [
+            {
+                "id": 1,
+                "name": "Wolfgang Amadeus Mozart",
+                "date": "(1756-1791)",
+                "album": "Klaviersonate A-Dur KV 331",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Tema: Andante grazioso"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Menuetto - Trio"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Alla Turca: Allegretto"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Ludwig van Beethoven",
+                "date": "(1770-1827)",
+                "album": "Klaviersonate Nr. 17 d-Moll op. 31/2 (`Der Sturm`)",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Largo - Allegro"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adagio"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Allegretto"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "event_id": "zxpbV",
+        "lang": "de",
+        "stage": "Zweiter Teil",
+        "section": 2,
+        "hall": "Kongresshaus Zürich",
+        "composer": [
+            {
+                "id": 1,
+                "name": "Frédéric Chopin",
+                "date": "(1810-1849)",
+                "album": "Nocturne Nr. 20 cis-Moll B 49 op. posth. (1830)",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Lento con gran espressione"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Frédéric Chopin Nocturne",
+                "date": "(1810-1849)",
+                "album": "Nr. 21 c-Moll B 108 op. posth. (1837)",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Andante sostenuto"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Fazıl Say",
+                "date": "(geb. 1970)",
+                "album": "À la carte",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Kara Toprak (Black Earth) für Klavier (1997)"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Üsküdara Gider iken (türkisches Volkslied, Bearbeitung von Fazıl Say)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "tr",
+        "stage": "Birinci bölüm",
+        "section": 1,
+        "hall": "Kongresshaus Zürich",
+        "composer": [
+            {
+                "id": 1,
+                "name": "Wolfgang Amadeus Mozart",
+                "date": "(1756-1791)",
+                "album": "Klaviersonate A-Dur KV 331",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Tema: Andante grazioso"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Menuetto - Trio"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Alla Turca: Allegretto"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Ludwig van Beethoven",
+                "date": "(1770-1827)",
+                "album": "Klaviersonate Nr. 17 d-Moll op. 31/2 (`Der Sturm`)",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Largo - Allegro"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adagio"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Allegretto"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "event_id": "zxpbV",
+        "lang": "tr",
+        "stage": "İkinci bölüm",
+        "section": 2,
+        "hall": "Kongresshaus Zürich",
+        "composer": [
+            {
+                "id": 1,
+                "name": "Frédéric Chopin",
+                "date": "(1810-1849)",
+                "album": "Nocturne Nr. 20 cis-Moll B 49 op. posth. (1830)",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Lento con gran espressione"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Frédéric Chopin Nocturne",
+                "date": "(1810-1849)",
+                "album": "Nr. 21 c-Moll B 108 op. posth. (1837)",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Andante sostenuto"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Fazıl Say",
+                "date": "(geb. 1970)",
+                "album": "À la carte",
+                "lists": [
+                    {
+                        "id": 1,
+                        "name": "Kara Toprak (Black Earth) für Klavier (1997)"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Üsküdara Gider iken (türkisches Volkslied, Bearbeitung von Fazıl Say)"
+                    }
+                ]
+            }
+        ]
+    }
+]

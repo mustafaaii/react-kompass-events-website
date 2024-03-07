@@ -1,0 +1,66 @@
+[
+    {
+        "lang": "tr",
+        "data": {
+            "header_button": "BİLET"
+        }
+    },
+    {
+        "lang": "de",
+        "data": {
+            "header_button": "TICKET"
+        }
+    },
+    {
+        "section": "menu",
+        "lang": "de",
+        "data": [
+            {
+                "name": "ÜBER UNS",
+                "url": "/uberuns"
+            },
+            {
+                "name": "EVENTS",
+                "url": "/event"
+            },
+            {
+                "name": "KONTAKT",
+                "url": "/kontakt"
+            },
+            {
+                "name": "AKKREDITIERUNG",
+                "url": "/akkreditierung"
+            },
+            {
+                "name": "FAQ",
+                "url": "/faq"
+            }
+        ]
+    },
+    {
+        "section": "menu",
+        "lang": "tr",
+        "data": [
+            {
+                "name": "HAKKIMIZDA",
+                "url": "/uberuns"
+            },
+            {
+                "name": "EVENTLER",
+                "url": "/event"
+            },
+            {
+                "name": "İLETİŞİM",
+                "url": "/kontakt"
+            },
+            {
+                "name": "AKREDİTASYON",
+                "url": "/akkreditierung"
+            },
+            {
+                "name": "SSS",
+                "url": "/faq"
+            }
+        ]
+    }
+]

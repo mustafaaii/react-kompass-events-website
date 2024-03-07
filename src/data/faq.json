@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "lang": "de",
+        "title": "Wo kann ich Tickets kaufen?",
+        "text": "Tickets können Sie über unsere offizielle Webseite, bei autorisierten Ticketverkaufsstellen und am Veranstaltungstag am Eingang des Veranstaltungsortes erwerben."
+    },
+    {
+        "id": "2",
+        "lang": "de",
+        "title": "Welche Zahlungsmethoden kann ich beim Online-Ticketkauf verwenden?",
+        "text": "Bei Online-Ticketkäufen können Sie Ihre Kreditkarte, Bankkarte und für einige unserer Veranstaltungen auch spezielle Zahlungsoptionen nutzen."
+    },
+    {
+        "id": "3",
+        "lang": "de",
+        "title": "Ist eine Ticketrückerstattung möglich?",
+        "text": "Tickets werden nicht erstattet, es sei denn, die Veranstaltung wird abgesagt. Im Falle einer Absage wird der Ticketpreis über den ursprünglichen Kaufkanal erstattet."
+    },
+    {
+        "id": "4",
+        "lang": "de",
+        "title": "Gibt es eine Altersbeschränkung für die Veranstaltungen?",
+        "text": "Die meisten unserer Veranstaltungen stehen Teilnehmern aller Altersgruppen offen. Für bestimmte Veranstaltungen kann jedoch eine Altersbeschränkung bestehen. Bitte informieren Sie sich im Voraus über die Veranstaltungsdetails."
+    },
+    {
+        "id": "5",
+        "lang": "de",
+        "title": "Was soll ich am Veranstaltungstag am Veranstaltungsort tun?",
+        "text": "Bitte bringen Sie am Veranstaltungstag Ihr Ticket und einen gültigen Ausweis mit. Der Einlass beginnt ab der auf Ihrem Ticket angegebenen Einlasszeit."
+    },
+    {
+        "id": "6",
+        "lang": "de",
+        "title": "Wie ist die Sitzordnung bei den Veranstaltungen?",
+        "text": "Die Sitzordnung variiert je nach Veranstaltung. Während bei einigen Veranstaltungen freie Platzwahl herrscht, gibt es bei anderen nummerierte Sitzplätze."
+    },
+    {
+        "id": "7",
+        "lang": "de",
+        "title": "Was tun, wenn eine Veranstaltung abgesagt wird?",
+        "text": "Im Falle einer Veranstaltungsabsage wird Ihr Ticketpreis automatisch über den Weg, auf dem Sie das Ticket gekauft haben, erstattet. Für weitere Informationen besuchen Sie bitte unsere Webseite."
+    },
+    {
+        "id": "8",
+        "lang": "de",
+        "title": "Ist das Fotografieren oder Filmen bei der Veranstaltung erlaubt?",
+        "text": "Die Nutzung von professionellen Kameras, Videokameras und Tonaufnahmegeräten ist in der Regel nicht gestattet. Das Aufnehmen mit Mobiltelefonen ist in begrenztem Umfang möglich. Bitte achten Sie darauf, Künstler und andere Besucher nicht zu stören."
+    },
+    {
+        "id": "9",
+        "lang": "de",
+        "title": "Müssen sich Pressevertreter vorab akkreditieren lassen?",
+        "text": "Pressevertreter müssen sich für die Veranstaltung vorab akkreditieren lassen. Bitte senden Sie Ihre Akkreditierungsanfrage rechtzeitig vor der Veranstaltung an unsere Presseabteilung."
+    },
+    {
+        "id": "10",
+        "lang": "tr",
+        "title": "Biletleri nereden satın alabilirim?",
+        "text": "Biletlerimizi, resmi web sitemiz üzerinden, yetkili bilet satış noktalarından ve etkinlik günü etkinlik mekanının girişinde bulunan gişeden satın alabilirsiniz."
+    },
+    {
+        "id": "11",
+        "lang": "tr",
+        "title": "Online bilet satın alırken hangi ödeme yöntemlerini kullanabilirim?",
+        "text": "Online bilet alımlarında kredi kartı, banka kartı ve bazı etkinliklerimiz için özel olarak sunulan diğer ödeme seçeneklerini kullanabilirsiniz."
+    },
+    {
+        "id": "11",
+        "lang": "tr",
+        "title": "Bilet iadesi yapılıyor mu?",
+        "text": "Etkinlik iptal edilmedikçe biletler iade edilemez. Etkinlik iptali durumunda, bilet ücreti satın alma yönteminize göre iade edilecektir."
+    },
+    {
+        "id": "11",
+        "lang": "tr",
+        "title": "Etkinlikler için yaş sınırı var mı?",
+        "text": "Etkinliklerimizin çoğu her yaştan katılımcıya açıktır. Ancak, bazı özel etkinlikler için yaş sınırlaması olabilir. Lütfen etkinlik detaylarını önceden inceleyiniz."
+    },
+    {
+        "id": "11",
+        "lang": "tr",
+        "title": "Etkinlik günü mekânda ne yapmalıyım?",
+        "text": "Lütfen etkinlik günü, biletinizi ve geçerli bir kimlik belgenizi yanınızda getiriniz. Giriş, biletinizde belirtilen kapı açılış saatinden itibaren başlar."
+    },
+    {
+        "id": "11",
+        "lang": "tr",
+        "title": "Etkinliklerde oturma düzeni nasıl?",
+        "text": "Oturma düzeni, etkinliğe göre değişiklik gösterir. Bazı etkinliklerde serbest oturma düzeni bulunurken, diğerlerinde numaralı koltuk seçeneği sunulabilir."
+    },
+    {
+        "title": "Etkinlik iptal edilirse ne yapmalıyım?",
+        "text": "Etkinlik iptal edilirse, bilet ücretiniz, biletin satın alındığı yola bağlı olarak otomatik olarak iade edilecektir. Daha fazla bilgi için lütfen web sitemizi ziyaret ediniz."
+    },
+    {
+        "id": "11",
+        "lang": "tr",
+        "title": "Etkinlikte fotoğraf veya video çekimi yapabilir miyim?",
+        "text": "Profesyonel kamera, video kamera ve ses kayıt cihazlarının kullanımı genellikle yasaktır. Ancak, mobil telefonlarla sınırlı çekim yapılabilir. Sanatçıların ve diğer katılımcıların rahatsız edilmemesi önemlidir."
+    },
+    {
+        "id": "11",
+        "lang": "tr",
+        "title": "Basın mensuplarının önceden akredite olması gerekiyor mu?",
+        "text": "Basın mensuplarının etkinlik için önceden akreditasyon işlemi yaptırması gerekmektedir. Lütfen akreditasyon talebinizi etkinlikten önce zamanında basın bölümümüze iletiniz."
+    }
+]

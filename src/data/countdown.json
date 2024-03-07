@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "lang": "de",
+        "data": [
+            {
+                "id": 1,
+                "name": "Days"
+            },
+            {
+                "id": 2,
+                "name": "Hour"
+            },
+            {
+                "id": 3,
+                "name": "Minu"
+            },
+            {
+                "id": 4,
+                "name": "Seco"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "lang": "tr",
+        "data": [
+            {
+                "id": 1,
+                "name": "Gün"
+            },
+            {
+                "id": 2,
+                "name": "Saat"
+            },
+            {
+                "id": 3,
+                "name": "Dakika"
+            },
+            {
+                "id": 4,
+                "name": "Saniye"
+            }
+        ]
+    }
+]

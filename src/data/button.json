@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "lang": "de",
+        "button": "TICKET"
+    },
+    {
+        "id": 2,
+        "lang": "de",
+        "button": "PROGRAM"
+    },
+    {
+        "id": 3,
+        "lang": "de",
+        "button": "IMPRESSUM"
+    },
+    {
+        "id": 4,
+        "lang": "de",
+        "button": "DETAILS"
+    },
+    {
+        "id": 5,
+        "lang": "de",
+        "button": "SENDEN"
+    },
+    {
+        "id": 6,
+        "lang": "de",
+        "button": "ABONNIEREN"
+    },
+    {
+        "id": 7,
+        "lang": "de",
+        "button": "MAPS"
+    },
+    {
+        "id": 1,
+        "lang": "tr",
+        "button": "BİLET"
+    },
+    {
+        "id": 2,
+        "lang": "tr",
+        "button": "PROGRAM"
+    },
+    {
+        "id": 3,
+        "lang": "tr",
+        "button": "KÜNYE"
+    },
+    {
+        "id": 4,
+        "lang": "tr",
+        "button": "DETAY"
+    },
+    {
+        "id": 5,
+        "lang": "tr",
+        "button": "GÖNDER"
+    },
+    {
+        "id": 6,
+        "lang": "tr",
+        "button": "ABONE OL"
+    },
+    {
+        "id": 7,
+        "lang": "tr",
+        "button": "HARİTA"
+    }
+]

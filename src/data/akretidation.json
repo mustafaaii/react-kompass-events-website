@@ -1,0 +1,214 @@
+[
+    {
+        "id": 1,
+        "lang": "de",
+        "title": "Akkreditierungsformular für Pressevertreter bei der Veranstaltung",
+        "text": "Bitte füllen Sie das folgende Formular aus, um Ihre Teilnahme als Pressevertreter an unserer Veranstaltung zu bestätigen. Dieses Formular ist Teil Ihres Akkreditierungsprozesses und notwendig für die Kommunikation und Organisation vor der Veranstaltung.",
+        "data": [
+            {
+                "id": 1,
+                "title": "Persönliche Informationen:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Andrede",
+                        "subs": [
+                            "Frau",
+                            "Herr"
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "placeholder": "Vorname Nachname",
+                        "subs": []
+                    },
+                    {
+                        "id": 3,
+                        "placeholder": "Berufsbezeichnung",
+                        "subs": []
+                    },
+                    {
+                        "id": 4,
+                        "placeholder": "Institution/Organisation",
+                        "subs": []
+                    },
+                    {
+                        "id": 5,
+                        "placeholder": "E-Mail-Adresse",
+                        "subs": []
+                    },
+                    {
+                        "id": 6,
+                        "placeholder": "Telefonnummer",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Professionelle Informationen:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Presseausweisnummer",
+                        "subs": []
+                    },
+                    {
+                        "id": 2,
+                        "placeholder": "Name des Publikationsorgans",
+                        "subs": []
+                    },
+                    {
+                        "id": 3,
+                        "placeholder": "Art des Publikationsorgans (Zeitung, Zeitschrift, Blog, etc.):",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Informationen zur Veranstaltung:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Spezifisches Interesse an der Veranstaltung (Interview, Fotografie, Allgemeine Berichterstattung, etc.):",
+                        "subs": []
+                    },
+                    {
+                        "id": 2,
+                        "placeholder": "Frühere Teilnahmen/Veröffentlichungen (Relevante Links):",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Gültiger Presseausweis eines in- oder ausländischen Journalistenverbandes.",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Dateien wählen",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Zusätzliche Notizen:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Weitere Informationen, die Sie hinzufügen möchten:",
+                        "subs": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "lang": "tr",
+        "title": "Etkinliğe Katılacak Basın Mensupları İçin Akreditasyon Formu",
+        "text": "Lütfen etkinliğimize basın mensubu olarak katılımınızı onaylamak için aşağıdaki formu doldurunuz. Bu form, akreditasyon sürecinizin bir parçasıdır ve etkinlik öncesi iletişim ve organizasyon için gereklidir.",
+        "data": [
+            {
+                "id": 1,
+                "title": "Kişisel Bilgiler:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Cinsiyet",
+                        "subs": [
+                            "Kadın",
+                            "Erkek"
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "placeholder": "Adı Soyadı:",
+                        "subs": []
+                    },
+                    {
+                        "id": 3,
+                        "placeholder": "Meslek Unvanı:",
+                        "subs": []
+                    },
+                    {
+                        "id": 4,
+                        "placeholder": "Çalıştığı Kurum/Kuruluş:",
+                        "subs": []
+                    },
+                    {
+                        "id": 5,
+                        "placeholder": "E-posta Adresi:",
+                        "subs": []
+                    },
+                    {
+                        "id": 6,
+                        "placeholder": "Telefon Numarası:",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Profesyonel Bilgiler:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Presseausweis Numarası (Basın Kartı No):",
+                        "subs": []
+                    },
+                    {
+                        "id": 2,
+                        "placeholder": "Yayın Organının Adı:",
+                        "subs": []
+                    },
+                    {
+                        "id": 3,
+                        "placeholder": "Yayın Organının Türü (Gazete, Dergi, Blog, vb.):",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Etkinlik İle İlgili Bilgiler:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Etkinlikte Özellikle İlgi Alanınız (Röportaj, Fotoğraf Çekimi, Genel Haber, vb.):",
+                        "subs": []
+                    },
+                    {
+                        "id": 2,
+                        "placeholder": "Daha Önce Katıldığınız Etkinlikler/Haberler (İlgili Linkler):",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Yerli veya yabancı gazeteciler derneğinden geçerli basın kartı.",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Dosyaları seçin",
+                        "subs": []
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Ek Notlar:",
+                "data": [
+                    {
+                        "id": 1,
+                        "placeholder": "Eklemek İstediğiniz Diğer Bilgiler:",
+                        "subs": []
+                    }
+                ]
+            }
+        ]
+    }
+]

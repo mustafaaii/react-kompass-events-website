@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "lang": "de",
+        "title": "NEWSLETTER",
+        "subtitle": "",
+        "placeholder": "Geben Sie Ihre E-Mail-Adresse ein, um unseren Newsletter zu erhalten. Ihre E-Mail Address"
+    },
+    {
+        "id": 2,
+        "lang": "de",
+        "title": "SOCIAL MEDIA",
+        "subtitle": "Folgen Sie uns auf unseren Social-Media-Kanälen!",
+        "placeholder": ""
+    },
+    {
+        "id": 3,
+        "lang": "de",
+        "title": "LINKS",
+        "subtitle": "",
+        "placeholder": ""
+    },
+    {
+        "id": 1,
+        "lang": "tr",
+        "title": "BÜLTEN",
+        "subtitle": "",
+        "placeholder": "Bültenimizi almak için e-posta adresinizi girin. E-posta adresiniz"
+    },
+    {
+        "id": 2,
+        "lang": "tr",
+        "title": "SOSYAL MEDYA",
+        "subtitle": "Bizi sosyal medya kanallarımızdan takip edin!",
+        "placeholder": ""
+    },
+    {
+        "id": 3,
+        "lang": "tr",
+        "title": "BAĞLANTILAR",
+        "subtitle": "",
+        "placeholder": ""
+    }
+]

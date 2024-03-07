@@ -1,0 +1,74 @@
+[
+    {
+        "id": 2,
+        "event_id": "zxpbV",
+        "lang": "de",
+        "title": "Fazıl Say",
+        "subtitle": "Klavierrezital",
+        "artists": [
+            "",
+            "",
+            ""
+        ],
+        "location": "Kongresshaus Zürich",
+        "link": "/events/detail/fazl-say/2",
+        "date": "2024-06-16",
+        "time": "17:00",
+        "image": "https://kompass.events/kompass_events/upload/banner/banner_fazil_say_sonntag_16_Juni_2024.png",
+        "url": "https://www.eventim-light.com/ch/a/65e1e63d7fe17c001fbb097a/iframe/e/65e72bd27b543d04f0d57da7/"
+    },
+    {
+        "id": 1,
+        "event_id": "55Qkw",
+        "lang": "de",
+        "title": "Klatscher",
+        "subtitle": "Ein Theaterfestival der Sterne",
+        "artists": [
+            "Çağlar Çorumlu,",
+            "Erkan Baylav und",
+            "Albina Özden"
+        ],
+        "location": "Hotel Spirgarten Zürich",
+        "link": "/events/detail/klatscher/1",
+        "date": "2024-05-18",
+        "time": "20:00",
+        "image": "https://kompass.events/kompass_events/upload/banner/banner_klatscher_samstag_18_mai_2024.png",
+        "url": "https://www.eventim-light.com/ch/a/65e1e63d7fe17c001fbb097a/iframe/e/65e5c4ef7b543d04f0d57cbd/"
+    },
+    {
+        "id": 3,
+        "event_id": "zxpbV",
+        "lang": "tr",
+        "title": "Fazıl Say",
+        "subtitle": "Piyano Resitali",
+        "artists": [
+            "",
+            "",
+            ""
+        ],
+        "location": "Kongresshaus Zürich",
+        "link": "/events/detail/fazl-say/2",
+        "date": "2024-06-16",
+        "time": "17:00",
+        "image": "https://kompass.events/kompass_events/upload/banner/banner_fazil_say_sonntag_16_Juni_2024.png",
+        "url": "https://www.eventim-light.com/ch/a/65e1e63d7fe17c001fbb097a/iframe/e/65e72bd27b543d04f0d57da7/"
+    },
+    {
+        "id": 4,
+        "event_id": "55Qkw",
+        "lang": "tr",
+        "title": "Şakşakçıklar",
+        "subtitle": "Yıldızların tiyatro festivali",
+        "artists": [
+            "Çağlar Çorumlu,",
+            "Erkan Baylav und",
+            "Albina Özden"
+        ],
+        "location": "Hotel Spirgarten Zürich",
+        "link": "/events/detail/klatscher/1",
+        "date": "2024-05-18",
+        "time": "20:00",
+        "image": "https://kompass.events/kompass_events/upload/banner/banner_klatscher_samstag_18_mai_2024.png",
+        "url": "https://www.eventim-light.com/ch/a/65e1e63d7fe17c001fbb097a/iframe/e/65e5c4ef7b543d04f0d57cbd/"
+    }
+]
